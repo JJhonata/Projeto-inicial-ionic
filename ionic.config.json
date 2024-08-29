@@ -1,0 +1,7 @@
+{
+  "name": "LivrariaApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
