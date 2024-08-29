@@ -8,9 +8,9 @@
 
 Este projeto é um aplicativo de CRUD de uma livraria com **Ionic 3** e **Node.js 10.24.1**. Ele permite adicionar, editar, listar e excluir livros entre outras coisas. 
 
-![Livraria1](https://github.com/user-attachments/assets/2559e99e-b7de-4f61-9f53-e38e5a0855c4)
+![Livraria1](https://github.com/user-attachments/assets/2559e99e-b7de-4f61-9f53-e38e5a0855c4)   ![Livraria](https://github.com/user-attachments/assets/02336602-4e02-40b2-a201-1bd59798a85a)
 
-![Livraria](https://github.com/user-attachments/assets/02336602-4e02-40b2-a201-1bd59798a85a)
+
 
 
 
